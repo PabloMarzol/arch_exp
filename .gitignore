@@ -1,0 +1,109 @@
+# === PYTHON ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+.Python
+
+# IPython and Jupyter
+.ipynb_checkpoints/
+
+# Pytest / Coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pylint / flake8
+.pylint.d/
+.flake8
+
+# Logs and local files
+*.log
+*.tmp
+*.bak
+
+# Alembic
+alembic/versions/*.pyc
+alembic/versions/__pycache__/
+alembic.ini
+alembic/
+
+# === NODE / JAVASCRIPT ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log
+.eslintcache
+
+# Build output
+dist/
+build/
+public/build/
+
+# React/Vite/Vue/Next.js
+.next/
+out/
+.vite/
+.svelte-kit/
+.storybook/
+
+# === ENV FILES / SECRETS ===
+.env
+.env.*
+*.env
+
+# === OS / EDITORS / IDE ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.swn
+.idea/
+.vscode/
+*.code-workspace
+
+# === DATABASE ===
+*.sqlite3
+*.db
+*.sql
+
+# === OTHER ===
+*.tgz
+*.gz
+*.zip
+*.tar
+*.bak
+*.orig
+*.rej

@@ -1,0 +1,7 @@
+po_number,customer_name,style,price,color,size,collection_name,quantity
+PO-2025-001,Harrods London,Knightsbridge Jacket,299.00,Black,M,Spring 2025,15
+PO-2025-001,Harrods London,Knightsbridge Jacket,299.00,Black,L,Spring 2025,20
+PO-2025-001,Harrods London,Knightsbridge Trousers,199.00,Navy,32,Spring 2025,25
+PO-2025-001,Harrods London,Heritage Coat,450.00,Brown,M,Spring 2025,10
+PO-2025-002,Selfridges,Urban Jacket,199.00,Grey,L,Spring 2025,30
+PO-2025-002,Selfridges,Urban Jacket,199.00,Black,XL,Spring 2025,20
